@@ -24,15 +24,11 @@ function App() {
     let specialChars = "!@#$%^&*()_-+={}[]|:;<>,.?/~`";
 
     if(numberAllowed){
-      console.log(`User has selected numbers: ${numberAllowed}`);
       str += nums
-      console.log(str);
     }
 
     if(charecterAllowed){
-      console.log(`User has selected charecters: ${charecterAllowed}`);
       str += specialChars
-      console.log(str);
     }
 
     //Logic to get random Index
