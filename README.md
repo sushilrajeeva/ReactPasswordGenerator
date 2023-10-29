@@ -2,6 +2,14 @@
 
 This React application empowers users to customize and generate passwords according to their preferences.
 
+## Problem Statement
+
+In today's digital age, cybersecurity is of paramount importance. One of the primary lines of defense in cybersecurity is a strong and unpredictable password. Many users often resort to using easily guessable passwords or reusing passwords across multiple platforms due to the challenges of remembering complex combinations. This practice makes them vulnerable to cyberattacks, where hackers can easily infiltrate accounts by merely guessing commonly used passwords.
+
+**React Dynamic Password Generator** addresses this pressing issue. This application is designed to help users generate random, robust, and secure passwords for their accounts. By providing users with the ability to customize their password based on length, inclusion of numbers, and special characters, the application ensures that each generated password is both secure and tailored to the user's preferences.
+
+Utilizing this tool adds an extra layer of security, ensuring that the user's passwords are not only strong but also unique. Keeping the password generation process anonymous ensures that the generated password remains confidential, further reducing the risk of potential cyber threats. In essence, the **React Dynamic Password Generator** acts as a shield, protecting users from the ever-growing threats in the digital world by equipping them with one of the most potent tools in cybersecurity: a robust password.
+
 ## Features
 
 - **Dynamic Password Length**: Adjust the desired password length using an interactive scroller.
@@ -55,3 +63,7 @@ Feel free to fork this repository and submit pull requests. All contributions ar
 ## License
 
 This project is open-source.
+
+## Screenshots
+
+![Screenshot of the Application](public/images/screenshot1.png)
