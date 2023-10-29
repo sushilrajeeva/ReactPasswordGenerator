@@ -67,3 +67,6 @@ This project is open-source.
 ## Screenshots
 
 ![Screenshot of the Application](public/images/Screenshot1.png)
+![Screenshot of the Application](public/images/Screenshot2.png)
+![Screenshot of the Application](public/images/Screenshot3.png)
+![Screenshot of the Application](public/images/Screenshot4.png)
